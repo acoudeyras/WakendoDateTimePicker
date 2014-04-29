@@ -1,4 +1,4 @@
-WAF.define('KendoDateTimePicker', ['waf-core/widget', 'kendoCore'], function(widget, $) {
+WAF.define('KendoDateTimePicker', ['waf-core/widget', 'kendoCore', 'kendoHelpers'], function(widget, $, helpers) {
 	'use strict';
 	
     var KendoDateTimePicker = widget.create('KendoDateTimePicker', {
