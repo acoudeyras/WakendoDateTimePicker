@@ -11,7 +11,7 @@
     "copyright": "(c) 2014 Widget Developer",
     "repository": {
         "type": "git",
-        "url": "https://github.com/developer/Widget.git"
+        "url": "https://github.com/acoudeyras/WakendoDateTimePicker.git"
     },
     "keywords": ["wakanda", "widget"],
     "engines": {"wakanda": ">= 8"},
