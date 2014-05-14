@@ -13,7 +13,7 @@
         "type": "git",
         "url": "https://github.com/acoudeyras/WakendoDateTimePicker.git"
     },
-    "keywords": ["wakanda", "widget"],
+    "keywords": ["wakanda", "widget", "datetime"],
     "engines": {"wakanda": ">= 8"},
     "license": "MIT",
     "loadDependencies": [
